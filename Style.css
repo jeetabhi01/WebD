@@ -1,8 +1,19 @@
 p{
-	color: "Orange";
+	color: red;
 	font-size: 20px
 }
 
-.Cursive{
-	text-transform = uppercase;
+#first{
+	background-color: rgb(136, 172, 141, 0.5);
+	color: orange;
+	border-color: burlywood;
+	height : 50px;
+	width  : 50px;
 }
+
+.Cursive{
+	color: red;
+	text-transform : uppercase;
+	font-family:'Courier New', Courier, monospace
+}
+
