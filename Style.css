@@ -12,6 +12,8 @@ p{
 	width  : 50px;
 }
 
+
+
 .Cursive{
 	color: red;
 	text-transform : uppercase;
@@ -24,5 +26,11 @@ h1, p{
 
 li h4{
 	text-transform : uppercase;
-	font-family: cursive;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#main{
+	background-color:aquamarine;
+	border-radius: 3px;
+	border:solid 3px black;
 }
