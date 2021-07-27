@@ -19,7 +19,6 @@ h1 :hover{
 	text-decoration: none;
 	
 }
-
 main{
 	display:inline-block;
 	width:70%;
@@ -32,7 +31,7 @@ main{
 	margin-left:20px;
 	margin-top:40px;
 	border-top:4px solid black;
-	border-bottom:4px solid black;
+	/* border-bottom:4px solid black; */
 	display:inline-block;
 	width:20%;
 	vertical-align:top;
@@ -70,3 +69,21 @@ li h4{
 font-size:1.5rem;
 }
 
+form{
+	border-bottom:solid black 4px;
+}
+
+#search{
+	margin-top : 20px;
+	display:inline-block;
+	height:20px;
+}
+
+.search-btn{
+	width:10%;
+	display:inline-block;
+	height:20px;
+	font-size : 1.5rem;
+	background-image:url(Images/search.png);
+	background-color:black;
+}
