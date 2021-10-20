@@ -1,7 +1,7 @@
 html{
 	font-size: 30px;
 }
-
+/*
 #div1{
 	background-color: rgb(126,200,100);
 	height : 4rem;
@@ -17,7 +17,7 @@ html{
 	border:dotted 1px black;
 	border-width:2px 3px;
 }
-
+*/
 #sample{
 	border-left: 3px solid red;
 }
@@ -52,3 +52,34 @@ html{
 	width:200px;
 	margin: 20px;
 }
+
+#outerdiv{
+	margin:10px;
+	border:solid ;
+	position:relative;
+	left:10px;
+	top:10px;
+	padding-bottom:30px;
+}
+
+#div1{
+	height:200px;
+	width:200px;
+	background-color:#a03109;
+	position:fixed;
+}
+
+     
+#div2{
+	width:200px;
+	height:200px;
+	background-color:orange;
+	
+}
+
+#div3{
+	width:200px;
+	height:200px;
+	background-color:#3a0c83;
+}
+
